@@ -1,6 +1,6 @@
-# Recommendation System Data Poisoning
+# Recommendation Systems Data Poisoning
 
-This Github repository summarizes a list of **Recommendation System Data Poisoning** resources, see our survey for details.
+This Github repository summarizes a list of **Recommendation Systems Data Poisoning** resources, see our survey for details.
 
 We call for reviews, papers, and toolboxes of Recommendation System Data Poisoning.
 
