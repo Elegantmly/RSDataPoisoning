@@ -54,7 +54,6 @@ We will do our best to constantly update this Github repository.
 | 2021 | A study of defensive methods to protect visual recommendation against adversarial manipulation of images | Defense                       | SIGIR                                                   | [link](https://dl.acm.org/doi/abs/10.1145/3404835.3462848)   | [code](https://github.com/sisinflab/Visual-Adversarial-Recommendation.) |
 | 2022 | Revisiting Injective Attacks on Recommender Systems          | Attack/Gradient               | NIPS                                                    | [link](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1bb0e3b062f0a443f2cc8a4ec4bb30d-Paper-Conference.pdf) |                                                              |
 | 2022 | Targeted Data Poisoning Attack on News Recommendation System by Content Perturbation | Attack/Gradient               |                                                         | [link](https://arxiv.org/pdf/2203.03560)                     |                                                              |
-|      |                                                              |                               |                                                         | [link]()                                                     | [code]()                                                     |
 
 ## Authors
 This repository is managed and maintained by:
