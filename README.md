@@ -54,6 +54,14 @@ We will do our best to constantly update this Github repository.
 | 2021 | A study of defensive methods to protect visual recommendation against adversarial manipulation of images | Defense                       | SIGIR                                                   | [link](https://dl.acm.org/doi/abs/10.1145/3404835.3462848)   | [code](https://github.com/sisinflab/Visual-Adversarial-Recommendation.) |
 | 2022 | Revisiting Injective Attacks on Recommender Systems          | Attack/Gradient               | NIPS                                                    | [link](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1bb0e3b062f0a443f2cc8a4ec4bb30d-Paper-Conference.pdf) |                                                              |
 | 2022 | Targeted Data Poisoning Attack on News Recommendation System by Content Perturbation | Attack/Gradient               |                                                         | [link](https://arxiv.org/pdf/2203.03560)                     |                                                              |
+| 2023 | Practical Cross-system Shilling Attacks with Limited Access to Data | Attack/Neural Network               |                                                         | [link](https://arxiv.org/pdf/2302.07145)                     | [code](https://github.com/KDEGroup/PC-Attack)                                                             |
+| 2023 | Single-User Injection for Invisible Shilling Attack against Recommender Systems | Attack               |   CIKM                                                      | [link](https://arxiv.org/pdf/2308.10467)                     | [code](https://github.com/kdegroup/sui-attack)                                                             |
+| 2023 | Untargeted Black-box Attacks for Social Recommendations | Attack               |                                                      | [link](https://arxiv.org/pdf/2311.07127)                     |                                                    |
+| 2023 | Poisoning Attacks Against Contrastive Recommender Systems | Attack               |                                                      | [link](https://arxiv.org/abs/2311.18244)                     |                                                           |
+| 2023 | Defense Against Model Extraction Attacks on Recommender Systems | Defense               |                                                      | [link](https://arxiv.org/pdf/2310.16335)                     |  [code](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)                                                           |
+
+
+
 
 ## Authors
 This repository is managed and maintained by:
