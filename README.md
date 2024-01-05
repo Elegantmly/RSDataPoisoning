@@ -60,6 +60,7 @@ We will do our best to constantly update this Github repository.
 | 2023 | Poisoning Attacks Against Contrastive Recommender Systems | Attack               |                                                      | [link](https://arxiv.org/abs/2311.18244)                     |                                                           |
 | 2023 | Defense Against Model Extraction Attacks on Recommender Systems | Defense               |                                                      | [link](https://arxiv.org/pdf/2310.16335)                     |  [code](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)                                                           |
 
+| 2023 | Defense Against Model Extraction Attacks on Recommender Systems | Defense               |                                                      | [link](https://arxiv.org/pdf/2310.16335)                     |  [code](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)                                                           |
 
 
 
